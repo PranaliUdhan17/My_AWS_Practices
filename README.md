@@ -1,5 +1,5 @@
-# My_AWS_Practices
-(My_AWS-Used_Services)
+# My_AWS_LAB_Notes
+-------------------
 Hi all,
 
 Welcome to this repository!
